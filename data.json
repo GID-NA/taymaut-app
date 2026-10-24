@@ -8,42 +8,42 @@
   {
    "id": "museums",
    "label": "Выставки и музеи",
-   "color": "#C97B5A"
+   "color": "#E5784F"
   },
   {
    "id": "stage",
    "label": "Театр и концерты",
-   "color": "#9B5B6E"
+   "color": "#D05A7E"
   },
   {
    "id": "cinema",
    "label": "Кино",
-   "color": "#6E7F96"
+   "color": "#5E86C9"
   },
   {
    "id": "city",
    "label": "По городу",
-   "color": "#2F9E6B"
+   "color": "#2DB37A"
   },
   {
    "id": "outside",
    "label": "За город",
-   "color": "#8A9455"
+   "color": "#93AD3F"
   },
   {
    "id": "tours",
    "label": "Экскурсии",
-   "color": "#C9A227"
+   "color": "#EDB62A"
   },
   {
    "id": "study",
    "label": "Учёба и лекции",
-   "color": "#5C6BA8"
+   "color": "#6575C9"
   },
   {
    "id": "fun",
    "label": "Развлечения",
-   "color": "#D4788C"
+   "color": "#EC7F9F"
   },
   {
    "id": "other",
