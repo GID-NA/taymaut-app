@@ -1,0 +1,83 @@
+{
+ "version": 2,
+ "app": {
+  "name": "Таймаут",
+  "hero": null
+ },
+ "themes": [
+  {
+   "id": "museums",
+   "label": "Выставки и музеи",
+   "color": "#C97B5A"
+  },
+  {
+   "id": "stage",
+   "label": "Театр и концерты",
+   "color": "#9B5B6E"
+  },
+  {
+   "id": "cinema",
+   "label": "Кино",
+   "color": "#6E7F96"
+  },
+  {
+   "id": "city",
+   "label": "По городу",
+   "color": "#2F9E6B"
+  },
+  {
+   "id": "outside",
+   "label": "За город",
+   "color": "#8A9455"
+  },
+  {
+   "id": "tours",
+   "label": "Экскурсии",
+   "color": "#C9A227"
+  },
+  {
+   "id": "study",
+   "label": "Учёба и лекции",
+   "color": "#5C6BA8"
+  },
+  {
+   "id": "fun",
+   "label": "Развлечения",
+   "color": "#D4788C"
+  },
+  {
+   "id": "other",
+   "label": "Другое",
+   "color": "#A99C8F"
+  }
+ ],
+ "places": [
+  {
+   "id": "moscow",
+   "label": "В городе"
+  },
+  {
+   "id": "home",
+   "label": "Дома"
+  },
+  {
+   "id": "other",
+   "label": "Другое"
+  }
+ ],
+ "durations": [
+  {
+   "id": "evening",
+   "label": "Вечер"
+  },
+  {
+   "id": "halfday",
+   "label": "Полдня"
+  },
+  {
+   "id": "fullday",
+   "label": "Целый день"
+  }
+ ],
+ "items": []
+}
